@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'jquery-ui-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
