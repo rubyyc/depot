@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b6efda-cc29-4cb9-bb8d-89a83bb89dfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/depot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/depot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -92,11 +83,12 @@
     <session id="1567802698">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -110,7 +102,7 @@
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="RHTML" value="38" />
           <entry key="RXML" value="1" />
-          <entry key="Ruby" value="83" />
+          <entry key="Ruby" value="85" />
           <entry key="SCSS" value="8" />
           <entry key="SVG" value="2" />
           <entry key="Scratch" value="3" />
@@ -124,7 +116,7 @@
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RHTML" value="3605" />
           <entry key="RXML" value="599" />
-          <entry key="Ruby" value="8474" />
+          <entry key="Ruby" value="8638" />
           <entry key="SCSS" value="716" />
           <entry key="YAML" value="319" />
         </counts>
@@ -136,29 +128,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
+            <state relative-caret-position="1845">
               <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+            <state relative-caret-position="-99">
+              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -166,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/controllers/users_controller_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+            <state relative-caret-position="1722">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -176,7 +165,16 @@
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -184,7 +182,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="533">
               <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
@@ -202,8 +200,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="492">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -222,7 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/controllers/line_items_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/app/channels/products_channel.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/channels/products.coffee" />
@@ -267,12 +264,13 @@
         <option value="$PROJECT_DIR$/app/controllers/line_items_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/i18n.rb" />
       </list>
     </option>
   </component>
@@ -296,7 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -313,100 +310,6 @@
             <path>
               <item name="depot" type="b2602c69:ProjectViewProjectNode" />
               <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="mailers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="carts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="line_items" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="order_mailer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="orders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="sessions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depot" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -414,6 +317,12 @@
               <item name="depot" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
               <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="depot" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="initializers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="depot" type="b2602c69:ProjectViewProjectNode" />
@@ -482,11 +391,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
-    <property name="SearchEverywhereHistoryKey" value="test&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/test_helper.rb&#10;ro&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;user&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/users_controller.rb&#10;test_he&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/test_helper.rb&#10;application_con&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/application_controller.rb&#10;sess&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/session_controller_test.rb&#10;dmin&#9;null&#9;null&#10;rou&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;adm&#9;null&#9;null&#10;user_s&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/integration/user_stories_test.rb&#10;order&#9;null&#9;null&#10;config/en&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/development.rb&#10;pr&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/product.rb&#10;product&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/products_controller.rb&#10;crea&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/line_items/create.js.erb&#10;orde&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/order.rb&#10;line&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/line_item.rb&#10;line_it&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/fixtures/line_items.yml&#10;new&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/orders/new.html.erb&#10;ord&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/orders_controller_test.rb&#10;_cart&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/carts/_cart.html.erb&#10;Orde&#9;null&#9;null&#10;pro&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/products_controller.rb&#10;dev&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/development.rb&#10;cart&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/carts_controller.rb&#10;_ca&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/carts/_cart.html.erb&#10;lin&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/line_items_controller_test.rb&#10;stor&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/store_controller.rb&#10;linr&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/line_items_controller_test.rb&#10;com&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/db/migrate/20181223052930_combine_items_in_cart.rb&#10;add&#9;null&#9;null&#10;store&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/assets/stylesheets/store.scss&#10;store/index&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/store/index.html.erb&#10;prod&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/products_controller_test.rb&#10;rout&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;produc&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/production.rb" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/application_controller.rb&#10;test&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/test_helper.rb&#10;ro&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;user&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/users_controller.rb&#10;test_he&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/test_helper.rb&#10;application_con&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/application_controller.rb&#10;sess&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/session_controller_test.rb&#10;dmin&#9;null&#9;null&#10;rou&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;adm&#9;null&#9;null&#10;user_s&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/integration/user_stories_test.rb&#10;order&#9;null&#9;null&#10;config/en&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/development.rb&#10;pr&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/product.rb&#10;product&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/products_controller.rb&#10;crea&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/line_items/create.js.erb&#10;orde&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/order.rb&#10;line&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/models/line_item.rb&#10;line_it&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/fixtures/line_items.yml&#10;new&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/orders/new.html.erb&#10;ord&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/orders_controller_test.rb&#10;_cart&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/carts/_cart.html.erb&#10;Orde&#9;null&#9;null&#10;pro&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/products_controller.rb&#10;dev&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/development.rb&#10;cart&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/carts_controller.rb&#10;_ca&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/carts/_cart.html.erb&#10;lin&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/line_items_controller_test.rb&#10;stor&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/controllers/store_controller.rb&#10;linr&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/line_items_controller_test.rb&#10;com&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/db/migrate/20181223052930_combine_items_in_cart.rb&#10;add&#9;null&#9;null&#10;store&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/assets/stylesheets/store.scss&#10;store/index&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/app/views/store/index.html.erb&#10;prod&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/test/controllers/products_controller_test.rb&#10;rout&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/routes.rb&#10;produc&#9;FILE&#9;file:///Users/yuanchang/rails/docker/depot/config/environments/production.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -627,18 +537,19 @@
       <workItem from="1545393679059" duration="11540000" />
       <workItem from="1545487589725" duration="12701000" />
       <workItem from="1545728026871" duration="6096000" />
-      <workItem from="1545790868438" duration="9923000" />
+      <workItem from="1545790868438" duration="10147000" />
+      <workItem from="1545893922266" duration="1188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40260000" />
+    <option name="totallyTimeSpent" value="41672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17095852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -650,7 +561,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.3296433" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -884,26 +795,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/session_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="28" lean-forward="true" selection-end-line="28" />
-          <folding>
-            <element signature="e#118#131#0" />
-            <element signature="e#199#212#0" />
-            <element signature="e#406#419#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/session_controller_test.rb" />
     <entry file="file://$PROJECT_DIR$/test/controllers/sessions_controller_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="e#118#173#0" />
-            <element signature="e#403#536#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -911,13 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1107">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -949,6 +838,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/create.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/destroy.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/users_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
@@ -956,64 +879,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/create.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/destroy.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="492">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="246">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/users_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/config/initializers/i18n.rb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="-99">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>
